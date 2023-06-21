@@ -1,1 +1,1 @@
-# NodeJS Starter Project
+# NodeJS Lab
